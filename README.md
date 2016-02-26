@@ -1,8 +1,8 @@
 <p align="center">
-  <img src ="https://github.com/andrii224/PageViewSwift/blob/master/Resources/SwiftPages%20Header%20Image.png"/>
+  <img src ="https://github.com/andrii224/SwiftPageView/blob/master/Resources/SwiftPages%20Header%20Image.png"/>
 </p>
 <p align="center">
-  <img src ="https://github.com/andrii224/PageViewSwift/blob/master/Resources/SwiftPagesSample.gif"/>
+  <img src ="https://github.com/andrii224/SwiftPageView/blob/master/Resources/SwiftPagesSample.gif"/>
 </p>
 
 <h3 align="center">Features</h3>
@@ -16,7 +16,7 @@
 - Extensively documented code for quick understanding.
 <br />
 <p align="center">
-  <img src ="https://github.com/andrii224/PageViewSwift/blob/master/Resources/Swift%20Pages%20iPhone%20mockups.png"/>
+  <img src ="https://github.com/andrii224/SwiftPageView/blob/master/Resources/Swift%20Pages%20iPhone%20mockups.png"/>
 </p>
 
 
